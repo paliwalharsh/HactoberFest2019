@@ -1,7 +1,7 @@
 # HactoberFest2019
 
  A repository to help budding developers have their first commit!
-
+With lots of exciting goodies
 ### Send a PR and complete the HactoberFest challenge...
 
 ## Steps 
